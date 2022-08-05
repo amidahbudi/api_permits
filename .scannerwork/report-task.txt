@@ -1,0 +1,6 @@
+projectKey=kerjoo
+serverUrl=http://localhost:9000
+serverVersion=9.3.0.51899
+dashboardUrl=http://localhost:9000/dashboard?id=kerjoo
+ceTaskId=AYBGDh5tuKQz4R-0Ui5e
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYBGDh5tuKQz4R-0Ui5e
